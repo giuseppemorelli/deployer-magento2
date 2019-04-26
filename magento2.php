@@ -16,11 +16,3 @@ set('writable_dirs', [
     'pub/static',
     'pub/media',
 ]);
-set('clear_paths', [
-    'CHANGELOG.md',
-    'COPYING.txt',
-    'LICENSE.txt',
-    'LICENSE_AFL.txt',
-    'ISSUE_TEMPLATE.txt',
-    'CONTRIBUTING.txt',
-]);
