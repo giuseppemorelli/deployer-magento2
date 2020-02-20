@@ -16,3 +16,15 @@ set('writable_dirs', [
     'pub/static',
     'pub/media',
 ]);
+set('clear_paths', [
+    'CHANGELOG.md',
+    'COPYING.txt',
+    'LICENSE.txt',
+    'LICENSE_AFL.txt',
+    'LICENSE_EE.txt',
+    'README_EE.md',
+    'SECURITY.md',
+    '.github',
+    '*.sample',
+    '.*.sample'
+]);
